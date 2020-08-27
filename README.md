@@ -1,6 +1,7 @@
 ### Hi, I'm Qani Ajdini! 👋
 
-I'm a highly motivated and creative thinking senior mobile app developer with plenty of energy to bring your ideas to life.✨✨
+<b> ✔️ Highly Motivated and Creative Thinking Full-Stack Mobile App Developer<b>
+<b> ✔️ Upwork Top-Rated Mobile App Developer<b>
 
 Here are some ideas to get you started:
 
