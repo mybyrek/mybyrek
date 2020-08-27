@@ -1,7 +1,10 @@
-### Hi, I'm Qani Ajdini! 👋
 
 <b> ✔️ Highly Motivated and Creative Thinking Full-Stack Mobile App Developer<b>
+&nbsp;
 <b> ✔️ Upwork Top-Rated Mobile App Developer<b>
+&nbsp;
+  
+### Hi, I'm Qani Ajdini! 👋
 
 Here are some ideas to get you started:
 
