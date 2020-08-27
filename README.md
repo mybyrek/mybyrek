@@ -9,14 +9,13 @@ Writing codes is not a problem. Before you start writing codes, you should write
 ✔️ Problem Solver
 <br>
 ✔️ Highly Enthusiastic Learner
-<br>
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<br><br>
 
 - 🔭 I’m currently working on mobile apps utilizing Flutter, Swift and Java.
 - 👯 I’m looking to collaborate on most complex and big mobile app projects.
 - 💬 Ask me about anything tech related.
 
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=qani-ajdini&&show_icons=true&include_all_commits=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qani-ajdini&layout=compact" />
