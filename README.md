@@ -1,10 +1,17 @@
 
+### Hi, I'm Qani Ajdini! 👋
+
+Writing programming codes is not a problem. My priorities are writing a detailed scheme of development and deciding and implementing the best suitable architecture and design patterns for the project.
+
+<br>
 <b> ✔️ Highly Motivated and Creative Thinking Full-Stack Mobile App Developer<b>
 <br>
 <b> ✔️ Upwork Top-Rated Mobile App Developer<b>
 <br>
-  
-### Hi, I'm Qani Ajdini! 👋
+<b> ✔️ Problem Solver<b>
+<br>
+<b> ✔️ Highly Enthusiastic Learner<b>
+<br>
 
 Here are some ideas to get you started:
 
