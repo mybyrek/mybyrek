@@ -16,8 +16,8 @@ Writing codes is not a problem. Before we start writing codes, we should write a
 - 💬 Ask me about anything related tech.
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=qani-ajdini&&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=mybyrek&&show_icons=true&include_all_commits=true">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qani-ajdini&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybyrek&layout=compact" />
 <br>
-<img align='right' src="https://komarev.com/ghpvc/?username=qani-ajdini" alt="qani-ajdini" />
+<img align='right' src="https://komarev.com/ghpvc/?username=mybyrek" alt="mybyrek" />
