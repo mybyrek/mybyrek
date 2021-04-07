@@ -20,4 +20,4 @@ Writing codes is not a problem. Before we start writing codes, we should write a
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybyrek&layout=compact" />
 <br>
-<img align='right' src="https://komarev.com/ghpvc/?username=mybyrek" alt="mybyrek" />
+<img align='right' src="https://komarev.com/ghpvc/?username=qani-ajdini" alt="mybyrek" />
