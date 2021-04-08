@@ -1,7 +1,7 @@
 
 ### Hi, MyByrek is here. Your loved one! 👋
 
-Writing codes is not a problem. Before we start writing codes, we should write a detailed scheme of the development and decide and implement the best suitable architecture and design patterns for the project. Algorithms and data structures are also more important than we start writing codes.
+Any fool can write code a computer can understand. A real programmer write code humans can understand.
 
 <br>
 ✔️ Senior Full-Stack Software Developer
