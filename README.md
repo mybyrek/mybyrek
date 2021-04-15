@@ -19,5 +19,3 @@ Any fool can write code a computer can understand. A real programmer write code 
 <img src="https://github-readme-stats.vercel.app/api?username=mybyrek&&show_icons=true&include_all_commits=true">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybyrek&layout=compact" />
-<br>
-<img align='right' src="https://komarev.com/ghpvc/?username=qani-ajdini" alt="mybyrek" />
