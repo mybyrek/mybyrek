@@ -1,5 +1,5 @@
 
-### Hi, MyByrek is here. Your loved one! 👋
+### Hi, Mybyrek is here. Your loved one! 👋
 
 Any fool can write code a computer can understand. A real programmer write code humans can understand.
 
