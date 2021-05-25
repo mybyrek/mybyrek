@@ -1,7 +1,7 @@
 
 ### Hi, Mybyrek is here. Your loved one! 👋
 
-Any fool can write code a computer can understand. A real programmer write code humans can understand.
+Any fool can write code a computer can understand. A real programmer writes code humans can understand.
 
 <br>
 ✔️ Senior Full-Stack Software Developer
