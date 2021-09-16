@@ -4,14 +4,14 @@
 Any fool can write code a computer can understand. A real programmer writes code humans can understand.
 
 <br>
-✔️ Senior Full-Stack Software Developer
+✔️ Expert full-stack mobile app developer
 <br>
-✔️ Problem Solver
+✔️ Problem solver
 <br>
-✔️ Highly Enthusiastic Learner
+✔️ Highly enthusiastic learner
 <br><br>
 
-- 🔭 I’m currently working on mobile apps utilizing Flutter, Swift and Java.
+- 🔭 My main mobile development tech stacks are React Native, Flutter, Swift and Java/Kotlin.
 - 👯 I’m looking to collaborate on most complex and big software projects.
 - 💬 Ask me about anything related tech.
 
