@@ -1,8 +1,6 @@
 
 ### Hi, Mybyrek is here. Your loved one! 👋
 
-Any fool can write code a computer can understand. A real programmer writes code humans can understand.
-
 <br>
 ✔️ Expert full-stack mobile app developer
 <br>
