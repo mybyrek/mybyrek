@@ -2,7 +2,7 @@
 ### Hi, Mybyrek is here. Your loved one! 👋
 
 <br>
-Mirgen Robo
+Mirgen Robo:
 <br>
 ✔️ Senior full-stack mobile app developer
 <br>
