@@ -1,8 +1,12 @@
 
-### Hi, Mybyrek is here. Your loved one! 👋
+### Hi there, Mybyrek is here. Your loved one! 👋
 
 <br>
-Mirgen Robo:
+<a href="https://www.linkedin.com/in/mirgen/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+[Mirgen Robo](https://my.visualcv.com/mirgen-robo/):
 <br>
 ✔️ Senior full-stack mobile app developer
 <br>
@@ -14,8 +18,3 @@ Mirgen Robo:
 - 🔭 My main mobile development tech stacks are React Native, Flutter, Swift and Java/Kotlin.
 - 👯 I’m looking to collaborate on most complex and big software projects.
 - 💬 Ask me about anything related tech.
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=mybyrek&&show_icons=true&include_all_commits=true">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mybyrek&layout=compact" />
