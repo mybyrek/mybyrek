@@ -7,6 +7,7 @@
 </a>
 
 [Mirgen Robo](https://my.visualcv.com/mirgen-robo/):
+
 <br>
 ✔️ Senior full-stack mobile app developer
 <br>
