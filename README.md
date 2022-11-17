@@ -15,6 +15,6 @@
 ✔️ Highly enthusiastic learner
 <br><br>
 
-- 🔭 My main mobile development tech stacks are React Native, Flutter, Swift and Java/Kotlin.
-- 👯 I’m looking to collaborate on most complex and big software projects.
-- 💬 Ask me about anything related tech.
+- 🔭 My main mobile development tech stacks are React Native, Flutter, Swift and Java/Kotlin
+- 👯 I’m looking to collaborate on most complex and big software projects
+- 💬 Ask me about anything related to tech
