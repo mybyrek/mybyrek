@@ -2,7 +2,9 @@
 ### Hi, Mybyrek is here. Your loved one! 👋
 
 <br>
-✔️ Expert full-stack mobile app developer
+Mirgen Robo
+<br>
+✔️ Senior full-stack mobile app developer
 <br>
 ✔️ Problem solver
 <br>
