@@ -4,7 +4,7 @@
 <br>
 
 - <a href="https://www.linkedin.com/in/mirgen/">LinkedIn</a>
-- [CV Mirgen Robo](https://my.visualcv.com/mirgen-robo/):
+- [CV Mirgen Robo](https://my.visualcv.com/mirgen-robo/)
 
 ✔️ Senior full-stack mobile app developer
 <br>
