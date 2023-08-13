@@ -2,7 +2,7 @@
 ### Hi there, Mybyrek is here. Your loved one! 👋
 
 <br>
-<a href="https://www.linkedin.com/in/mirgen/"></a>
+<a href="https://www.linkedin.com/in/mirgen/">LinkedIn</a>
 
 [Mirgen Robo](https://my.visualcv.com/mirgen-robo/):
 
