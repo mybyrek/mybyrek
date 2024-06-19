@@ -13,6 +13,6 @@
 ✔️ Highly enthusiastic learner
 <br><br>
 
-- 🔭 My main development tech stacks are React Native, Flutter, Swift and Java/Kotlin
+- 🔭 My main development tech stacks are React Native, Flutter, Swift/SwiftUI, and Java/Kotlin
 - 👯 I’m looking to collaborate on most complex and big software projects
 - 💬 Ask me about anything related to tech
